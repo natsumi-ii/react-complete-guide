@@ -1,4 +1,4 @@
-# 【日本語化進行中】
+# 日本語化進行中です！
 
 # Course Code & Materials
 
